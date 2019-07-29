@@ -24,7 +24,7 @@ fi
 
 
 echo -e "|\n|  Download ShareList Package ... "
-wget -O sharelist-master.zip https://github.com/reruin/sharelist/archive/master.zip >/dev/null 2>&1
+wget -O sharelist-master.zip https://github.com/jsonlog/sharelist/archive/master.zip >/dev/null 2>&1
 
 unzip -q -o sharelist-master.zip -d ./
 

@@ -3,7 +3,7 @@
 .editorconfig
 *.css
 db.json
-config.json
+# config.json
 build/
 *.lock
 # Logs

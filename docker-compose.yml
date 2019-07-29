@@ -1,7 +1,7 @@
 version: "3"
 services:
   sharelist:
-    image: reruin/sharelist
+    image: jsonlog/sharelist
     volumes:
       - $HOME/sharelist:/sharelist/cache
     ports:
