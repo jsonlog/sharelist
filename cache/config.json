@@ -1,0 +1,32 @@
+{
+    "port": "16920",
+    "proxy_enable": 0,
+    "preview_enable": 1,
+    "webdav_path": "/webdav/",
+    "max_age_dir": 900000,
+    "max_age_file": 300000,
+    "skin": "default",
+    "title": "worldrive",
+    "path": [
+        {
+            "name": "example",
+            "path": "fs:./example"
+        },
+        {
+            "name": "my-drivegoogle",
+            "path": "gd:1HO6fGrDMik5sacH46SLAgwPiEJz1rlGJ"
+        },
+        {
+            "name": "my-1drv_ms-f",
+            "path": "od:s!AnUbAVHtXS8NaUgMo-kiJojlmaU"
+        },
+        {
+            "name": "myGithub",
+            "path": "github:jsonlog"
+        },
+        {
+            "name": "myMusic",
+            "path": "github:jsonlog/music"
+        }
+    ]
+}
